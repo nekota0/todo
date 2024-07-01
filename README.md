@@ -6,9 +6,8 @@ all the todos are saved at todo.txt
 First, run the cargo.
 /
 And then, you can input the command
-/
-/
-/
+
+### commands
 to add the todo
 ```
 add {todo_name}
